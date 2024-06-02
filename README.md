@@ -64,6 +64,11 @@ Key Takeaways
 - About the Instructor
 - 🌟Sharon Zhou is the Co-Founder and CEO of Lamini. With a wealth of experience in NLP and AI, Sharon is a renowned expert in the field.
 
+**Tips**
+![](https://github.com/ritwiks9635/Finetuning_Large-Language-Models/blob/main/Screenshot_20240602-131255_Chrome.jpg)
+
+![](https://github.com/ritwiks9635/Finetuning_Large-Language-Models/blob/main/Screenshot_20240602-131347_Chrome.jpg)
+
 🔗 Reference: "Finetuning Large Language Models" course. To enroll in the course or for further information, visit [deeplearning.ai.](https://www.deeplearning.ai/)
 
 

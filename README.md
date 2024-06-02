@@ -63,3 +63,7 @@ Key Takeaways
 - 🌟Sharon Zhou is the Co-Founder and CEO of Lamini. With a wealth of experience in NLP and AI, Sharon is a renowned expert in the field.
 
 🔗 Reference: "Finetuning Large Language Models" course. To enroll in the course or for further information, visit [deeplearning.ai.](https://www.deeplearning.ai/)
+
+
+**What does Lamini AI do?**
+Lamini is an AI-powered LLM platform designed specifically for enterprise software development. It offers developers the ability to automate workflows, optimize the software development process, and enhance productivity through the utilization of generative AI and machine learning technologies.

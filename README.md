@@ -1,5 +1,7 @@
 # Finetuning Large Language Models
 
+[Complete](https://learn.deeplearning.ai/accomplishments/10e9afa5-adff-45db-84a4-61d8a112ec58?usp=sharing)
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-NbyYXCGRWN-h2AgJJTiRa0aGrAiDqx70Q&usqp=CAU)
 
 Fine-tuning is the process of taking a pre-trained model and further training it on a domain-specific dataset. Most LLM models today have a very good global performance but fail in specific task-oriented problems.
